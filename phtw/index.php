@@ -1,6 +1,8 @@
 <html>
 <head>
-<meta http-equiv="refresh" content="URL=https://www.pizzahut.com.tw" />
+
+<meta http-equiv="refresh" content="1; url='https://www.pizzahut.com.tw'" />
+
 </head>
   <body>Hello</body>
   
